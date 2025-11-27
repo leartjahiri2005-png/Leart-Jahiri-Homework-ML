@@ -17,6 +17,11 @@ The model takes an RGB image as input and predicts a binary mask highlighting th
 - Improved model with deeper layers & tuned learning rate
 - Achieved significant performance improvement (Baseline → Improved)
 
+## Datset
+This project uses the ECSSD (Extended Complex Scene Saliency Dataset) containing 1000 natural images.
+Dataset download link:
+https://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html
+
 
 ## How to Run
 ```bash
