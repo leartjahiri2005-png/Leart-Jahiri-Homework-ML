@@ -42,7 +42,7 @@ def save_example_predictions(
     model,
     test_loader,
     device,
-    output_dir="report/figures",
+    output_dir="results",
     num_batches=2,
 ):
     os.makedirs(output_dir, exist_ok=True)
